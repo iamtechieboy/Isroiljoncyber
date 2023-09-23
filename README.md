@@ -1,16 +1,16 @@
 <!-- Replace the following placeholders with your information and content -->
 
-# Hello, I'm [Johns (Isroijon Abduvakhobov)] 👋
+# Hello, I'm Johns (Isroijon Abduvakhobov) 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?label=Follow&style=social)](https://twitter.com/your_twitter_username)
 [![Linkedin: your-linkedin-username](https://img.shields.io/badge/-Your%20Name-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-username/)](https://www.linkedin.com/in/your-linkedin-username/)
 [![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
 
-I'm a passionate [Your Profession] with a keen interest in [Your Interests]. Welcome to my GitHub profile, where I share my projects, code, and ideas.
+I'm a passionate Programmer with a keen interest in Mobile Developing . Welcome to my GitHub profile, where I share my projects, code, and ideas.
 
 ## 🔧 Technologies & Tools
 ![Your Favorite Languages and Tools](https://img.shields.io/badge/Your%20Favorite-Languages%20%26%20Tools-brightgreen)
 
-- [ ] Technology/Tool 1
+- [ ] Dart/Flutter
 - [ ] Technology/Tool 2
 - [ ] Technology/Tool 3
 
