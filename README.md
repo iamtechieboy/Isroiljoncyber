@@ -1,20 +1,49 @@
-<h1 align="center">Hi 👋, I'm Isroiljon</h1>
-<h3 align="center">Mobile developer from Uzbekistan</h3>
+<!-- Replace the following placeholders with your information and content -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isroiljoncyber&label=Profile%20views&color=0e75b6&style=flat" alt="isroiljoncyber" /> </p>
+# Hello, I'm [Johns (Isroijon Abduvakhobov)] 👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?label=Follow&style=social)](https://twitter.com/your_twitter_username)
+[![Linkedin: your-linkedin-username](https://img.shields.io/badge/-Your%20Name-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-username/)](https://www.linkedin.com/in/your-linkedin-username/)
+[![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isroiljoncyber" alt="isroiljoncyber" /></a> </p>
+I'm a passionate [Your Profession] with a keen interest in [Your Interests]. Welcome to my GitHub profile, where I share my projects, code, and ideas.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abduvohobov-isroiljon-b127031a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abduvohobov-isroiljon-b127031a9/" height="30" width="40" /></a>
-<a href="https://instagram.com/isroiljon_abduvakhobov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isroiljon_abduvakhobov" height="30" width="40" /></a>
-</p>
+## 🔧 Technologies & Tools
+![Your Favorite Languages and Tools](https://img.shields.io/badge/Your%20Favorite-Languages%20%26%20Tools-brightgreen)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+- [ ] Technology/Tool 1
+- [ ] Technology/Tool 2
+- [ ] Technology/Tool 3
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isroiljoncyber&show_icons=true&locale=en&layout=compact" alt="isroiljoncyber" /></p>
+## 🌱 I'm Currently Learning
+![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Topic%20or%20Technology%20Here-blueviolet)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isroiljoncyber&show_icons=true&locale=en" alt="isroiljoncyber" /></p>
+- [ ] Topic/Technology 1
+- [ ] Topic/Technology 2
+- [ ] Topic/Technology 3
 
+## 🚀 Projects
+Here are some of my most noteworthy projects:
+
+- [Project 1](link-to-project-1): Description of the project.
+- [Project 2](link-to-project-2): Description of the project.
+- [Project 3](link-to-project-3): Description of the project.
+
+Explore more of my projects on [GitHub](https://github.com/your-github-username).
+
+## 📚 Blog
+I occasionally write about my experiences and insights on my [Blog](link-to-your-blog).
+
+## 📫 Let's Connect
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin-username/)
+- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/your_twitter_username)
+
+Feel free to reach out for collaboration or just to say hello! 😊
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true)
+
+<!-- Replace the following links with your own -->
+[link-to-project-1]: https://github.com/your-github-username/project-1
+[link-to-project-2]: https://github.com/your-github-username/project-2
+[link-to-project-3]: https://github.com/your-github-username/project-3
+[link-to-your-blog]: https://your-blog-link.com
