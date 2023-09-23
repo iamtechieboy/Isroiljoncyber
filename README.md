@@ -1,49 +1,45 @@
 <!-- Replace the following placeholders with your information and content -->
 
-# Hello, I'm Johns (Isroijon Abduvakhobov) 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?label=Follow&style=social)](https://twitter.com/your_twitter_username)
-[![Linkedin: your-linkedin-username](https://img.shields.io/badge/-Your%20Name-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-username/)](https://www.linkedin.com/in/your-linkedin-username/)
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
+# Hello, I'm Isroiljon (short John) 👋
+[![Linkedin: your-linkedin-username](https://img.shields.io/badge/-Your%20Name-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abduvohobov-isroiljon-b127031a9/)](https://www.linkedin.com/in/abduvohobov-isroiljon-b127031a9/)
+[![GitHub followers](https://img.shields.io/github/followers/Isroiljoncyber?label=Follow&style=social)](https://github.com/Isroiljoncyber)
 
-I'm a passionate Programmer with a keen interest in Mobile Developing . Welcome to my GitHub profile, where I share my projects, code, and ideas.
+I'm a passionate Flutter developer with expertise in building beautiful and performant mobile applications. Welcome to my GitHub profile, where I share my Flutter projects, packages, and insights.
 
 ## 🔧 Technologies & Tools
-![Your Favorite Languages and Tools](https://img.shields.io/badge/Your%20Favorite-Languages%20%26%20Tools-brightgreen)
-
-- [ ] Dart/Flutter
-- [ ] Technology/Tool 2
-- [ ] Technology/Tool 3
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![Your Other Favorite Tools](https://img.shields.io/badge/Your%20Other%20Favorite-Tools-brightgreen)
 
 ## 🌱 I'm Currently Learning
-![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Topic%20or%20Technology%20Here-blueviolet)
+![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Flutter%20Animations-blueviolet)
 
-- [ ] Topic/Technology 1
-- [ ] Topic/Technology 2
-- [ ] Topic/Technology 3
+- [ ] Flutter Clean Architecture Techniques
+- [ ] State Management Best Practices
+- [ ] UI/UX Design Principles for Mobile
 
 ## 🚀 Projects
-Here are some of my most noteworthy projects:
+Here are some of my Flutter projects:
 
-- [Project 1](link-to-project-1): Description of the project.
-- [Project 2](link-to-project-2): Description of the project.
-- [Project 3](link-to-project-3): Description of the project.
+- [Note App]([link-to-project-2](https://github.com/Isroiljoncyber/note_app)): Handy Note app for saving your instant ideas.
+- [Weather App](https://github.com/Isroiljoncyber/weather_new): Beautiful weather app with realtime datasource from belived websites.
+- [Currency App](https://github.com/Isroiljoncyber/currency_app): Awaring of current currency.
 
-Explore more of my projects on [GitHub](https://github.com/your-github-username).
-
-## 📚 Blog
-I occasionally write about my experiences and insights on my [Blog](link-to-your-blog).
+Explore more of my Flutter projects on [GitHub](https://github.com/Isroiljoncyber).
 
 ## 📫 Let's Connect
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin-username/)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/your_twitter_username)
+- 📧 Email: aisroiljon1289@gmail.com
+- 💼 LinkedIn: [Abduvakhobov Isroiljon](https://www.linkedin.com/in/abduvohobov-isroiljon-b127031a9/)
+- 🐦 Instagram: [Abduvakhobov Isroiljon](https://www.instagram.com/isroiljon_abduvakhobov/)
 
-Feel free to reach out for collaboration or just to say hello! 😊
+Feel free to reach out for collaboration, Flutter tips, or just to say hello! 😊
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true)
+![Isroiljoncyber's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isroiljoncyber&show_icons=true)
 
 <!-- Replace the following links with your own -->
-[link-to-project-1]: https://github.com/your-github-username/project-1
-[link-to-project-2]: https://github.com/your-github-username/project-2
-[link-to-project-3]: https://github.com/your-github-username/project-3
-[link-to-your-blog]: https://your-blog-link.com
+[Wisdom Dictionary]: https://github.com/Isroiljoncyber/wisdom_dictionary
+[Experimental App ]: https://github.com/Isroiljoncyber/add_to_ios_flutter
+[Note App]: https://github.com/Isroiljoncyber/note_app
+[UIC Test App]: https://github.com/Isroiljoncyber/exercise_uic
+[Weather App]: https://github.com/Isroiljoncyber/weather_new
+[Movie App]: https://github.com/Isroiljoncyber/movie_app
